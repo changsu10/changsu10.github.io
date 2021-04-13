@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Assistant Professor, [Department of Health Services Administration and Policy](https://cph.temple.edu/departments-research/departments/department-health-services-administration-and-policy), College of Public Health, Temple University
+#### Assistant Professor, [Department of Health Services Administration and Policy](https://cph.temple.edu/departments-research/departments/department-health-services-administration-and-policy), College of Public Health, Temple University
 
 I'm an Assistant Professor in the Department of Health Services Administration and Policy in the College of Public Health, Temple University.
  
