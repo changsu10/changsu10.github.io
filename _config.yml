@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chang Su"
   avatar           : "profile.png"
-  bio              : "I'm an Assistant Professor in the Department of Health Services Administration and Policy in the College of Public Health, Temple University"
-  location         : "Location"
+  bio              : #"I'm an Assistant Professor in the Department of Health Services Administration and Policy in the College of Public Health, Temple University"
+  location         : "Philadelphia, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ef_JSlYAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Chang-Su-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/changsu10/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
